@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\mystudents.o
+./release\students.o
+./release\studentdialog.o
+./release\tablesv.o
+./release\check.o
+./release\search.o
+./release\moc_mystudents.o
+./release\moc_studentdialog.o
+./release\moc_tablesv.o
+./release\moc_check.o
+./release\moc_search.o
+);

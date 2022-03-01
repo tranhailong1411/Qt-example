@@ -1,0 +1,14 @@
+INPUT(
+./debug\main.o
+./debug\mystudents.o
+./debug\students.o
+./debug\studentdialog.o
+./debug\tablesv.o
+./debug\check.o
+./debug\search.o
+./debug\moc_mystudents.o
+./debug\moc_studentdialog.o
+./debug\moc_tablesv.o
+./debug\moc_check.o
+./debug\moc_search.o
+);
